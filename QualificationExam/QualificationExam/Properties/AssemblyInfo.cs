@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("QualificationExam")]
+[assembly: AssemblyTitle("ServiceAccounting")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("QualificationExam")]
+[assembly: AssemblyProduct("ServiceAccounting")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("3436c5fe-de1c-40a2-a1fc-391a8cf3bca8")]
+[assembly: Guid("0abaa1a3-a68e-41f1-8278-fffcb8fe4eb2")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

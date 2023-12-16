@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace QualificationExam.Properties
+namespace ServiceAccounting.Properties
 {
 
 
